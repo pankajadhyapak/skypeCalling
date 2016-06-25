@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "490813176404",
+    "firebase_url": "https://skype-cd640.firebaseio.com",
+    "project_id": "skype-cd640",
+    "storage_bucket": "skype-cd640.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490813176404:android:55a072e9f3937aea",
+        "android_client_info": {
+          "package_name": "com.adhyapak.skypecalling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490813176404-se4kdp6pso8j3j91gfn95mbl8ikurb8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adhyapak.skypecalling",
+            "certificate_hash": "4ADA2F1DE6ED5AE932EBFA22803386B0585CC47C"
+          }
+        },
+        {
+          "client_id": "490813176404-mrcqmajo3ej7f2d4r6cpr53501ltus7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX-f0boICw5O9qjj6hV0WCKTA7UXXKPzE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490813176404-mrcqmajo3ej7f2d4r6cpr53501ltus7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
